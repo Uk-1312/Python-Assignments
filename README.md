@@ -10,3 +10,10 @@ This program takes two numbers as input from the user and performs the following
 - Subtraction
 - Multiplication
 - Division 
+
+
+## Task 2: Create a Personalized Greeting
+
+### Description
+This script (`task2.py`) takes the user's first and last name, combines them into a full name, and prints a personalized greeting.
+
